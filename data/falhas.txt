@@ -1,0 +1,17 @@
+Prod_Descartados	Motivo_Falha
+1271	Paint_process_failed
+981	Trim_length_too_long
+876	Thermoform_temperature_too_low
+826	Drill_size_too_small
+804	Wheel_misaligned
+763	Trim_length_too_short
+762	Drill_pattern_incorrect
+743	Primer_process_failed
+692	Seat_assembly_not_as_ordered
+575	Gouge_in_metal
+506	Drill_size_too_large
+491	Color_incorrect
+459	Brake_assembly_not_as_ordered
+394	Thermoform_temperature_too_high
+306	Stress_test_failed
+202	Handling_damage
