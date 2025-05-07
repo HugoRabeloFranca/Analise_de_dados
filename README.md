@@ -1,4 +1,4 @@
-# Análise de **Gestão de Estoque** e **Produção** - Simulação Empresa B2B e B2C do ramo de Bicicletas e Acessórios
+# Análise de Dados de **Gestão de Estoque** e **Produção** - Simulação Empresa B2B e B2C do ramo de Bicicletas e Acessórios
 
 # 📊 Análise de Dados com AdventureWorks 2017 (SQL + Python)
 
