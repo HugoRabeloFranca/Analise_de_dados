@@ -10,7 +10,7 @@ Utilizando **consultas SQL (SSMS)** integradas ao **Python**, a análise tem com
 ## 🎯 Objetivos da análise
 
 - Avaliar o desempenho dos estoques da empresa (nível de estoque e distribuição de produtos em estoques).
-- Avaliaro desempenho em vendas baseadas em localidades.
+- Avaliar o desempenho em vendas baseadas em localidades.
 - Analisar o desempenho da produção de produtos ao longo do tempo.
 - Identificar padrões e possíveis falhas no processo de produção.
 - Gerar insights para possíveis melhorias no processo produtivo.
@@ -35,6 +35,18 @@ Utilizando **consultas SQL (SSMS)** integradas ao **Python**, a análise tem com
 - `requirements.txt`: Lista das bibliotecas Python utilizadas no projeto.
 - `data`: Banco de dados e arquivos utilizados para a extração.
 - `imagens`: Imagens geradas a partir das análises dos dados.
+
+---
+## 📌 Índice
+
+- [1. Análise de Nível de Estoque](#1-análise-de-nível-de-estoque)
+- [2. Identificação dos Estoques e seus Níveis](#2-identificação-dos-estoques-e-seus-níveis)
+- [3. Avaliação de Vendas por Território](#3-avaliação-de-vendas-por-território)
+- [4. Verificação do tempo médio de produção por produto](#4-verificação-do-tempo-médio-de-produção-por-produto)
+- [5. Verificação dos produtos mais fabricados](#5-verificação-dos-produtos-mais-fabricados)
+- [6. Principais motivos de falhas na produção](#6-principais-motivos-de-falhas-na-produção)
+- [7. Principais produtos que mais apresentam falhas na produção](#7-principais-produtos-que-mais-apresentam-falhas-na-produção)
+- [Conclusões Gerais](#conclusões-gerais)
 
 ---
 
